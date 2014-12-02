@@ -5,8 +5,6 @@ the 40-bit key.  Using this key, one could then decrypt all of the packets in th
 log file. Specifically, this script is an implementation of the statistical attack
 known as the FMS attack (Fluhrer, Mantin, Shamir). 
 
-Sample log files are included in the logs/ directory.
-
 Usage:
  Compile:
  `make`
